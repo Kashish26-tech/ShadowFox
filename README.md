@@ -1,7 +1,5 @@
 # ShadowFox
 
-# ShadowFox
-
 🐍 ShadowFox – Python Development Tasks
 
 ShadowFox is a Python learning and development repository that contains tasks, exercises, and projects ranging from beginner-level coding to real-world applications.
